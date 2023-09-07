@@ -5,7 +5,6 @@ Version: 1.0
 Id: 123e00c7-b7d0-4e48-9a93-6c49c29d6e82
 BinaryUrl: https://www.nirsoft.net/utils/fulleventlogview-x64.zip
 ExportFormat: csv
-FileMask: "*.evtx"
 Processors:
     -
         Executable: FullEventLogView.exe
